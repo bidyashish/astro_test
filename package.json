@@ -1,0 +1,12 @@
+{
+  "name": "astro_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "robot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node robot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
